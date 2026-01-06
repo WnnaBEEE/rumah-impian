@@ -6,7 +6,7 @@ const isLocalhost = window.location.hostname === 'localhost' ||
 // API URLs
 const API_URLS = {
   development: 'http://localhost:3000/api',
-  production: 'https://your-backend.railway.app/api'  // ← GANTI dengan URL backend Anda
+  production: 'https://shinkansen.proxy.rlwy.net/api'  // ← GANTI dengan URL backend Anda
 };
 
 // Select based on environment
